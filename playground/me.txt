@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ayush
-Skills: HTML,CSS,Bootstrap,JavaScript,React,MySQL,Github,C++
-Email: ayushduggal24@gmail.com
-{{/user}}
